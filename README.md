@@ -1,1 +1,1 @@
-[Assignment](https://svampurinn.github.io)
+https://svampurinn.github.io/big-fat-string-exercise/
